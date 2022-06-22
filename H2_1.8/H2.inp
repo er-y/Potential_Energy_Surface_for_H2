@@ -1,0 +1,17 @@
+# avogadro generated ORCA file
+# H2 | Single Point | PBE/def2-TZVP
+# 
+! SP PBE D3ZERO def2-TZVP 
+
+%maxcore 16384
+
+%pal
+   nprocs 1
+end
+
+* xyz 0 1
+   H      0.000000    0.000000    0.000000
+   H      0.000000    0.000000    1.8000000
+*
+
+
